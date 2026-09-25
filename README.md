@@ -68,3 +68,17 @@ Instalar dependencias:
 npm install -g vercel
 vercel login
 vercel --prod
+
+
+git init
+git remote -v
+git remote add origin https:
+git remote set-url origin htt
+
+
+git branch
+git remote -v
+
+git add .
+git commit -m "prueba"
+git push -u origin main
